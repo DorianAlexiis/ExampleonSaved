@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example onSaved</string>
+    <string name="etEntrada">CUÉNTAME TU MENSAJE</string>
+    <string name="tvTitulo">HOLA, SOY UNA ACTIVIDAD</string>
+</resources>
